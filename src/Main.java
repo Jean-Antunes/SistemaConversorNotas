@@ -68,6 +68,7 @@ public class Main {
             System.out.println("6 - Mostrar acima da média");
             System.out.println("7 - Gerar string final");
             System.out.println("8 - Sair");
+            System.out.println("Escolha uma Opção: "); 
 
             option = scanner.nextInt();
             scanner.nextLine();

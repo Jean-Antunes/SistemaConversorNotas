@@ -1,0 +1,10 @@
+111#Allana#10#0
+222#Breno#8#9
+333#Cida#6#7
+444#Denis#-1#0
+555#Edna#4#5
+666#Felix#2#3
+777#Gertrudes#0#-1
+888#Hector#0#1
+999#Ivone#-1#-1
+123#Jorge#7#5
